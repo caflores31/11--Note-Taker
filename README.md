@@ -25,7 +25,7 @@ run npm install
 run npm install 
   
 ### Screenshots
-![Alt text](/Users/cherrieanneawang/Desktop/projects/11--Note-Taker/images/notetaker.png raw=true "Optional Title")
+![Alt text](https://github.com/caflores31/11--Note-Taker/blob/master/images/notetaker.png “Note Taker”)
 
 ![notes](https://notetaker1131.herokuapp.com/notes)
 Deployed app Note taker
